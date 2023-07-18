@@ -1,6 +1,4 @@
 # TopicListing
-https://themewagon.github.io/TopicListing/index.html
-
 
 <h1 align="center">TopicListing</h1>
 
