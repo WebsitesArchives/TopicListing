@@ -5,7 +5,7 @@
 <p align="center">Pinwheel is a highly customizable multipurpose SaaS theme built with TailwindCSS.</p>
 
 <h2 align="center">
-<a target="_blank" href="https://themewagon.github.io/TopicListing/index.html" rel="nofollow">👀 Demo</a> | <a  target="https://themewagon.com/themes/topiclisting/" href="">Website Info🚀</a>
+<a target="_blank" href="https://themewagon.github.io/TopicListing/index.html" rel="nofollow">👀 Demo</a> | <a  target="_blank" href="https://themewagon.com/themes/topiclisting/">Website Info🚀</a>
 </h2>
 
 ![TopicListing](https://themewagon.com/wp-content/uploads/2023/07/topiclisting.png)
